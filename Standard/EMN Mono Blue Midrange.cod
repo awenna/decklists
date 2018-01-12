@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Stratus Dancer"/>
+        <card number="3" price="0" name="Harbinger of the Tides"/>
+        <card number="3" price="0" name="Frost Walker"/>
+        <card number="3" price="0" name="Shorecrasher Elemental"/>
+        <card number="4" price="0" name="Whirler Rogue"/>
+        <card number="4" price="0" name="Icefall Regent"/>
+        <card number="4" price="0" name="Spatial Contortion"/>
+        <card number="3" price="0" name="Reality Shift"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="3" price="0" name="Clash of Wills"/>
+        <card number="2" price="0" name="Void Shatter"/>
+        <card number="2" price="0" name="Ugin's Insight"/>
+        <card number="4" price="0" name="Evolving Wilds"/>
+        <card number="15" price="0" name="Island"/>
+        <card number="1" price="0" name="Wastes"/>
+        <card number="2" price="0" name="Foundry of the Consuls"/>
+        <card number="3" price="0" name="Blighted Cataract"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Dispel"/>
+        <card number="3" price="0" name="Encase in Ice"/>
+        <card number="2" price="0" name="Crush of Tentacles"/>
+        <card number="2" price="0" name="Disdainful Stroke"/>
+        <card number="4" price="0" name="Grip of the Roil"/>
+        <card number="2" price="0" name="Warping Wail"/>
+    </zone>
+</cockatrice_deck>
