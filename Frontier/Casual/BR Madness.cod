@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Falkenrath Gorger"/>
+        <card number="3" price="0" name="Incorrigible Youths"/>
+        <card number="2" price="0" name="Stromkirk Occultist"/>
+        <card number="4" price="0" name="Fiery Temper"/>
+        <card number="7" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Dragonskull Summit"/>
+        <card number="8" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Asylum Visitor"/>
+        <card number="4" price="0" name="Tormenting Voice"/>
+        <card number="4" price="0" name="Bloodhall Priest"/>
+        <card number="2" price="0" name="Olivia, Mobilized for War"/>
+        <card number="4" price="0" name="Stromkirk Condemned"/>
+        <card number="2" price="0" name="Collective Brutality"/>
+        <card number="2" price="0" name="Duress"/>
+        <card number="4" price="0" name="Smoldering Marsh"/>
+        <card number="2" price="0" name="Heir of Falkenrath"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Call the Bloodline"/>
+        <card number="2" price="0" name="Duress"/>
+        <card number="2" price="0" name="Murderous Compulsion"/>
+        <card number="2" price="0" name="Collective Brutality"/>
+        <card number="2" price="0" name="Alms of the Vein"/>
+        <card number="2" price="0" name="Lightning Axe"/>
+        <card number="2" price="0" name="Stensia Masquerade"/>
+    </zone>
+</cockatrice_deck>

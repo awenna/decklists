@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Spell Pierce"/>
+        <card number="4" price="0" name="Opt"/>
+        <card number="4" price="0" name="Deeproot Champion"/>
+        <card number="4" price="0" name="Kumena's Speaker"/>
+        <card number="4" price="0" name="Siren Stormtamer"/>
+        <card number="2" price="0" name="Kopala, Warden of Waves"/>
+        <card number="2" price="0" name="Unsummon"/>
+        <card number="3" price="0" name="Revolutionary Rebuff"/>
+        <card number="4" price="0" name="Merfolk Branchwalker"/>
+        <card number="2" price="0" name="Deeproot Waters"/>
+        <card number="2" price="0" name="Vineshaper Mystic"/>
+        <card number="3" price="0" name="River Sneak"/>
+        <card number="2" price="0" name="Blossoming Defense"/>
+        <card number="3" price="0" name="Unclaimed Territory"/>
+        <card number="2" price="0" name="Woodland Stream"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="6" price="0" name="Forest"/>
+        <card number="4" price="0" name="Botanical Sanctum"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Dispel"/>
+        <card number="3" price="0" name="Glimmer of Genius"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="1" price="0" name="Revolutionary Rebuff"/>
+        <card number="1" price="0" name="Vineshaper Mystic"/>
+        <card number="1" price="0" name="Unclaimed Territory"/>
+        <card number="2" price="0" name="Unsummon"/>
+        <card number="2" price="0" name="Blossoming Defense"/>
+        <card number="1" price="0" name="Spell Pierce"/>
+    </zone>
+</cockatrice_deck>

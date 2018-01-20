@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Anticipate"/>
+        <card number="2" price="0" name="Blighted Fen"/>
+        <card number="4" price="0" name="Demonic Pact"/>
+        <card number="4" price="0" name="Den Protector"/>
+        <card number="3" price="0" name="Disallow"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="3" price="0" name="Languish"/>
+        <card number="2" price="0" name="Llanowar Wastes"/>
+        <card number="2" price="0" name="Ob Nixilis Reignited"/>
+        <card number="2" price="0" name="Silumgar's Command"/>
+        <card number="4" price="0" name="Sultai Charm"/>
+        <card number="3" price="0" name="Sunken Hollow"/>
+        <card number="3" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Yavimaya Coast"/>
+        <card number="3" price="0" name="Censor"/>
+        <card number="3" price="0" name="Supreme Will"/>
+        <card number="2" price="0" name="Drowned Catacomb"/>
+        <card number="2" price="0" name="Flooded Strand"/>
+        <card number="4" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Canopy Vista"/>
+        <card number="1" price="0" name="Cinder Glade"/>
+        <card number="1" price="0" name="Bloodstained Mire"/>
+        <card number="3" price="0" name="Fatal Push"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Duress"/>
+        <card number="2" price="0" name="Flaying Tendrils"/>
+        <card number="2" price="0" name="Lost Legacy"/>
+        <card number="1" price="0" name="Sphinx of the Final Word"/>
+        <card number="1" price="0" name="To the Slaughter"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="1" price="0" name="Silumgar's Command"/>
+        <card number="1" price="0" name="Languish"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Sagu Mauler"/>
+    </zone>
+</cockatrice_deck>
