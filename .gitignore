@@ -1,0 +1,5 @@
+# Unsorted decks
+*.cod
+
+# Unsorted Frontier decks
+Frontier/*.cod
