@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Collective Defiance"/>
+        <card number="4" price="0" name="Fiery Temper"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Tormenting Voice"/>
+        <card number="2" price="0" name="Shreds of Sanity"/>
+        <card number="4" price="0" name="Lightning Strike"/>
+        <card number="2" price="0" name="Wild Slash"/>
+        <card number="4" price="0" name="Exquisite Firecraft"/>
+        <card number="4" price="0" name="Stoke the Flames"/>
+        <card number="4" price="0" name="Monastery Swiftspear"/>
+        <card number="4" price="0" name="Harsh Mentor"/>
+        <card number="4" price="0" name="Abbot of Keral Keep"/>
+        <card number="2" price="0" name="Scab-Clan Berserker"/>
+        <card number="4" price="0" name="Ramunap Ruins"/>
+        <card number="4" price="0" name="Sunscorched Desert"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Savage Alliance"/>
+        <card number="2" price="0" name="Bedlam Reveler"/>
+        <card number="2" price="0" name="Incendiary Flow"/>
+        <card number="1" price="0" name="Shreds of Sanity"/>
+        <card number="2" price="0" name="Wild Slash"/>
+        <card number="4" price="0" name="Hungry Flames"/>
+        <card number="2" price="0" name="Collective Defiance"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Scab-Clan Berserker"/>
+        <card number="2" price="0" name="Geier Reach Sanitarium"/>
+    </zone>
+</cockatrice_deck>
