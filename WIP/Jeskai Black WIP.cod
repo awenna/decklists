@@ -10,11 +10,10 @@
         <card number="2" price="0" name="Mountain"/>
         <card number="1" price="0" name="Prairie Stream"/>
         <card number="2" price="0" name="Soulfire Grand Master"/>
-        <card number="4" price="0" name="Dig Through Time"/>
+        <card number="3" price="0" name="Dig Through Time"/>
         <card number="2" price="0" name="Ojutai's Command"/>
         <card number="2" price="0" name="Wild Slash"/>
         <card number="2" price="0" name="Dragonlord Ojutai"/>
-        <card number="2" price="0" name="Lightning Strike"/>
         <card number="3" price="0" name="Search for Azcanta"/>
         <card number="1" price="0" name="Smoldering Marsh"/>
         <card number="2" price="0" name="Sunken Hollow"/>
@@ -22,14 +21,16 @@
         <card number="4" price="0" name="Crackling Doom"/>
         <card number="4" price="0" name="Fatal Push"/>
         <card number="3" price="0" name="Kolaghan's Command"/>
-        <card number="1" price="0" name="Monastery Mentor"/>
         <card number="1" price="0" name="Torrential Gearhulk"/>
-        <card number="2" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Swamp"/>
         <card number="2" price="0" name="Shambling Vent"/>
-        <card number="1" price="0" name="Nomad Outpost"/>
-        <card number="2" price="0" name="Painful Truths"/>
         <card number="2" price="0" name="Radiant Flames"/>
         <card number="1" price="0" name="Mystic Monastery"/>
+        <card number="1" price="0" name="Blessed Alliance"/>
+        <card number="2" price="0" name="Abrade"/>
+        <card number="1" price="0" name="Anticipate"/>
+        <card number="1" price="0" name="Dragonskull Summit"/>
+        <card number="1" price="0" name="Glacial Fortress"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Chandra, Torch of Defiance"/>
@@ -37,10 +38,15 @@
         <card number="2" price="0" name="Dispel"/>
         <card number="1" price="0" name="Ojutai's Command"/>
         <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
-        <card number="1" price="0" name="Lightning Strike"/>
+        <card number="3" price="0" name="Lightning Strike"/>
         <card number="2" price="0" name="Negate"/>
         <card number="1" price="0" name="Wild Slash"/>
         <card number="2" price="0" name="Duress"/>
         <card number="1" price="0" name="Soulfire Grand Master"/>
+        <card number="1" price="0" name="Anticipate"/>
+        <card number="1" price="0" name="Monastery Mentor"/>
+        <card number="1" price="0" name="Opt"/>
+        <card number="2" price="0" name="Painful Truths"/>
+        <card number="1" price="0" name="Dig Through Time"/>
     </zone>
 </cockatrice_deck>

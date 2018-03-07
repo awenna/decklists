@@ -4,8 +4,6 @@
 2 Artful Maneuver
 4 Battlefield Forge
 2 Citadel Siege
-4 Evolving Wilds
-4 Fiery Impulse
 2 Knight of the White Orchid
 2 Kytheon, Hero of Akros
 4 Mardu Woe-Reaper
@@ -17,12 +15,12 @@
 2 Silkwrap
 2 Stasis Snare
 2 War-Name Aspirant
-
-Sideboard:
-3 Dragon Hunter
-2 Dragonscale General
-3 Enshrouding Mist
-2 Feat of Resistance
-2 Felidar Cub
-3 Surge of Righteousness
-
+4 Inspiring Vantage
+4 Lightning Strike
+4 Wild Slash
+SB: 3 Dragon Hunter
+SB: 2 Dragonscale General
+SB: 3 Enshrouding Mist
+SB: 2 Feat of Resistance
+SB: 2 Felidar Cub
+SB: 3 Surge of Righteousness
