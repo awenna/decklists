@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Collective Defiance"/>
+        <card number="4" name="Fiery Temper"/>
+        <card number="18" name="Mountain"/>
+        <card number="2" name="Geier Reach Sanitarium"/>
+        <card number="4" name="Tormenting Voice"/>
+        <card number="3" name="Goblin Dark-Dwellers"/>
+        <card number="4" name="Thermo-Alchemist"/>
+        <card number="3" name="Shreds of Sanity"/>
+        <card number="2" name="Blighted Gorge"/>
+        <card number="2" name="Incendiary Flow"/>
+        <card number="4" name="Stromkirk Occultist"/>
+        <card number="2" name="Howl of the Horde"/>
+        <card number="2" name="Lightning Strike"/>
+        <card number="2" name="Sunscorched Desert"/>
+        <card number="4" name="Shock"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Savage Alliance"/>
+        <card number="2" name="Incendiary Flow"/>
+        <card number="2" name="Lightning Axe"/>
+        <card number="1" name="Goblin Dark-Dwellers"/>
+        <card number="1" name="Shreds of Sanity"/>
+        <card number="2" name="Incorrigible Youths"/>
+        <card number="4" name="Exquisite Firecraft"/>
+        <card number="1" name="Sweltering Suns"/>
+        <card number="1" name="Chandra, Fire of Kaladesh"/>
+    </zone>
+</cockatrice_deck>
